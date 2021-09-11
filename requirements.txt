@@ -22,6 +22,7 @@ psycopg2==2.9.1
 pylint==2.10.2
 pyperclip==1.8.2
 python-dateutil==2.8.2
+python-decouple==3.4
 pytz==2021.1
 pyvenv==0.2.2
 s3transfer==0.5.0
